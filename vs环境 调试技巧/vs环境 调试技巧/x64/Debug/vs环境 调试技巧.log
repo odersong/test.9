@@ -1,0 +1,4 @@
+﻿  test.c
+E:\2022版本3-16\vs环境 调试技巧\vs环境 调试技巧\test.c(8,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+E:\2022版本3-16\vs环境 调试技巧\vs环境 调试技巧\test.c : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  vs环境 调试技巧.vcxproj -> E:\2022版本3-16\vs环境 调试技巧\x64\Debug\vs环境 调试技巧.exe
